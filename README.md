@@ -32,7 +32,7 @@ Add the built-in script for Socket IO
 ```
 
 
-## Screenshot
+## Screenshots
 
 **Abbeer Chat Window**
 
