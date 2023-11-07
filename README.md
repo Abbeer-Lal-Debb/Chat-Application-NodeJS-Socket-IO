@@ -48,7 +48,7 @@ Add the built-in script for Socket IO
 
 **Client:**  HTML, CSS, JavaScript
 
-**Server:** Node, Socket IO
+**Server:** Node JS, Socket IO
 
 
 ## Demo
